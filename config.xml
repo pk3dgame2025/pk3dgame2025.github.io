@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" 
-        id="com.yourname.parkour3d" 
-        version="1.0.0">
-    <name>3D Parkour Game</name>
-    <description>Roblox-style 3D parkour game</description>
-    <author email="your@email.com">Your Name</author>
-    
-    <platform name="android">
-        <allow-intent href="market:*" />
-    </platform>
-    
-    <access origin="*" />
-    <allow-navigation href="*" />
-</widget>
+
