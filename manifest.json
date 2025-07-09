@@ -1,8 +1,13 @@
 {
-  "theme_color": "#ff7676",
-  "background_color": "#525252",
-  "categories": [
-    "games"
+  "name": "PKGAME3D",
+  "theme_color": "#ff4242",
+  "background_color": "#818181",
+  "short_name": "PKGAME3D",
+  "id": "PKGAME3D",
+  "description": "Ggwp",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "fullscreen"
   ]
-  "description": "GGWP"
 }
